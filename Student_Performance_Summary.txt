@@ -1,6 +1,8 @@
 Summary of Student Performance Analysis
 
-This analysis explores the StudentsPerformance dataset to understand academic outcomes across demographic and socioeconomic factors. The dataset includes students’ scores in math, reading, and writing, along with variables such as gender, race/ethnicity, parental education level, lunch type, and test preparation course status.
+This analysis explores the StudentsPerformance dataset to understand academic outcomes across demographic and socioeconomic factors. 
+The dataset includes students’ scores in math, reading, and writing, along with variables such as gender, race/ethnicity, parental 
+education level, lunch type, and test preparation course status.
 
 1. Dataset Overview
 - Dataset loaded and inspected; clean and structured with no missing values.
@@ -30,4 +32,5 @@ This analysis explores the StudentsPerformance dataset to understand academic ou
 - Reading and writing scores show a strong positive relationship.
 
 Final Summary
-The analysis highlights performance differences across gender, race/ethnicity, and parental education. These insights can support decisions in educational planning, student support initiatives, and understanding of academic trends.
+The analysis highlights performance differences across gender, race/ethnicity, and parental education. These insights can 
+support decisions in educational planning, student support initiatives, and understanding of academic trends.
